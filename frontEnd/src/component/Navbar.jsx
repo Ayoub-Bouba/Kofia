@@ -5,6 +5,7 @@ import { navLinks } from "../../constants";
 
 const Navbar = () => {
   useGSAP(() => {
+    
     gsap.fromTo(
       "nav",
       {
@@ -26,12 +27,8 @@ const Navbar = () => {
       {" "}
       <a href="#hero" className="flex items-center gap-2">
         {" "}
-        <img
-          src="/images/logo.jpg"
-          
-          className="w-8 h-8 object-contain"
-        />{" "}
-        <p className="font-bold text-lg tracking-wider ">VELVET POUR</p>{" "}
+        
+        <p className="font-bold text-lg tracking-wider ">Kofia</p>{" "}
       </a>
       <ul className="flex gap-8">
         {" "}

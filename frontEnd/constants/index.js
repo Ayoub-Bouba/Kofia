@@ -1,9 +1,8 @@
+import { FaInstagram } from "react-icons/fa";
 export const navLinks = [
   { id: "hero", title: "Home" },
-  { id: "cocktails", title: "Cocktails" },
-  { id: "about", title: "About Us" },
   { id: "menu", title: "Menu" },
-  { id: "contact", title: "Contact" },
+  
 
 ];
 
@@ -36,6 +35,6 @@ export const openingHours = [
 
 export const socials = [
   { name: "Instagram", url: "https://instagram.com", icon: "/images/instagram.png" },
-  { name: "Facebook", url: "https://facebook.com", icon: "/images/facebook.png" },
-  { name: "Twitter", url: "https://twitter.com", icon: "/images/twitter.png" },
+  { name: "Facebook", url: "https://facebook.com", icon: "/images/fb.png" },
+  { name: "Twitter", url: "https://twitter.com", icon: "/images/x.png" },
 ];

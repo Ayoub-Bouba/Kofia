@@ -21,8 +21,8 @@ const Contact = () => {
         </div>
         <div>
           <h3 className="text-xl font-bold mb-4 text-amber-400">Contact Us</h3>
-          <p className="text-gray-400 text-sm mb-2">Phone: +1 (555) 123-4567</p>
-          <p className="text-gray-400 text-sm">Email: info@velvetpour.com</p>
+          <p className="text-gray-400 text-sm mb-2">Phone: +212 773194771</p>
+          <p className="text-gray-400 text-sm">Email: ayoubbouba199@gmail.com</p>
         </div>
         <div>
           <h3 className="text-xl font-bold mb-4 text-amber-400">
